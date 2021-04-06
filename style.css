@@ -1,0 +1,15 @@
+
+body{
+  margin:0;
+  padding:0;
+}
+.a{
+  background-image:url(https://lemag.nikonclub.fr/wp-content/uploads/2017/07/03.jpg);
+}
+.color{
+ -webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+  font-size:14px;
+background-image: url(https://media1.tenor.com/images/246b3348deacccea6b537fe121512dc8/tenor.gif?itemid=9957045); 
+  background-size:cover;
+}
